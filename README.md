@@ -7,7 +7,7 @@ Source feature data extracted from CT lung scans and employed in [Cazzolato et a
 dp-BREATH source dataset is available for researchers and data scientists under the GNU General Public license.
 In case of publication and/or public use of the available data, as well as any dataset derived from it, one should acknowledge its creators by citing the following paper.
 
-> [Cazzolato et al. 2019] dp-BREATH: Heat maps and probabilistic classification assisting the analysis of abnormal lung regions. To appear.
+> [Cazzolato et al. 2019] dp-BREATH: Heat maps and probabilistic classification assisting the analysis of abnormal lung regions. DOI: https://doi.org/10.1016/j.cmpb.2019.01.014. In Computer Methods and Programs in Biomedicine, 2019.
 
 ## Nomenclature and Data Overview
 
